@@ -1,4 +1,4 @@
-# gira_arqueopterix
+# gira_RACINGDRONES
 video streaming and racingdrone commands delivery
 # this repository includes the software developed at UMP-Sur in the framework of the ARQUEOPTERIX project.
 # The software was developed by the GIRA research group which is with the CEI research centre.
